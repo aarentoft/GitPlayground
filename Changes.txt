@@ -1,3 +1,5 @@
 Change to be amended.
 	Consider this an amendment.
 	New amendment to check the state of GIT_COMMITTER_DATE after setting it manually.
+
+Test GPG signed commits.
